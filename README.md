@@ -2,6 +2,14 @@
 
 This project analyzes residential sale listings across selected ZIP codes in multiple U.S. states using Python, SQL Server, and Tableau. It includes an end-to-end workflow for data extraction, cleaning, storage, and dashboarding, with comparisons of price, price per square foot, days on market, and geographic distribution.
 
+## Live Dashboard
+
+[View the interactive Tableau dashboard here]https://public.tableau.com/app/profile/tulio.machado.pinheiro/vizzes
+
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-screenshot.png)
+
 ## Dashboard Overview
 
 The dashboard compares selected ZIP codes across multiple states and includes:
