@@ -8,7 +8,7 @@ This project analyzes residential sale listings across selected ZIP codes in mul
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-screenshot.png)
+![Dashboard Preview](Dashboard-screenshot.png)
 
 ## Dashboard Overview
 
