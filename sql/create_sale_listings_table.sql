@@ -1,0 +1,36 @@
+USE housing_market_db;
+GO
+
+CREATE TABLE sale_listings_cleaned (
+    listing_row_id INT IDENTITY(1,1) PRIMARY KEY,
+    id VARCHAR(255),
+    formattedAddress VARCHAR(500),
+    addressLine1 VARCHAR(255),
+    city VARCHAR(100),
+    state VARCHAR(50),
+    zipCode VARCHAR(20),
+    county VARCHAR(100),
+    latitude FLOAT,
+    longitude FLOAT,
+    propertyType VARCHAR(100),
+    bedrooms FLOAT,
+    bathrooms FLOAT,
+    squareFootage FLOAT,
+    lotSize FLOAT,
+    yearBuilt FLOAT,
+    status VARCHAR(100),
+    price FLOAT,
+    listingType VARCHAR(100),
+    listedDate DATETIME,
+    removedDate DATETIME,
+    createdDate DATETIME,
+    lastSeenDate DATETIME,
+    daysOnMarket FLOAT,
+    mlsName VARCHAR(255),
+    mlsNumber VARCHAR(255),
+    source_zip VARCHAR(20),
+    hoa VARCHAR(MAX),
+    history VARCHAR(MAX),
+    price_per_sq_ft FLOAT,
+    property_age FLOAT
+);
