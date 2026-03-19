@@ -4,7 +4,7 @@ This project analyzes residential sale listings across selected ZIP codes in mul
 
 ## Live Dashboard
 
-[View the interactive Tableau dashboard here]https://public.tableau.com/app/profile/tulio.machado.pinheiro/vizzes
+[https://public.tableau.com/app/profile/tulio.machado.pinheiro/vizzes](https://public.tableau.com/app/profile/tulio.machado.pinheiro/viz/U_S_HousingMarketComparisonDashboard/U_SHousingMarketDashboard)
 
 ## Dashboard Preview
 
